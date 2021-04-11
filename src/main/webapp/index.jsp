@@ -7,6 +7,6 @@
 <title>Insert title here </title>
 </head>
 <body>
-    <h1>Direct Edit</h1>
+    <h2>Edit from notepad</h2>
 </body>
 </html>
